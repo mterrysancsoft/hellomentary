@@ -1,1 +1,1 @@
-Working through the new tutorials on elementary development in Vala.
+A trival Hello, World app in Vala from the tutorial.
